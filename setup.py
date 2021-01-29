@@ -9,8 +9,8 @@ plugin_name = "OctoPrint-FilamentManager"
 plugin_version = "1.7.0"
 plugin_description = "Manage your spools and keep track of remaining filament on them"
 plugin_author = "Sven Lohrmann, Olli"
-plugin_author_email = "ollisgit@gmail.com, malnvenshorn@gmail.com"
-plugin_url = "https://github.com/OllisGit/OctoPrint-FilamentManager"
+plugin_author_email = "marcel@mkrepinsky.de, oschwartz10612@gmail.com, ollisgit@gmail.com, malnvenshorn@gmail.com"
+plugin_url = "https://github.com/marrelmaker/OctoPrint-FilamentManager"
 plugin_license = "AGPLv3"
 plugin_requires = ["backports.csv>=1.0.5,<1.1",
                    "uritools>=2.1,<2.2",

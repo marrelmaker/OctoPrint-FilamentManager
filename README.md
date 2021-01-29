@@ -49,7 +49,8 @@ If you like it, I would be thankful about a cup of coffee :)
 1. Install this plugin via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    `https://github.com/OllisGit/OctoPrint-FilamentManager/releases/latest/download/master.zip`
+    `https://github.com/marrelmaker/OctoPrint-FilamentManager/releases/latest/download/master.zip`
+
 
 1. For PostgreSQL support you need to install an additional dependency:
 
